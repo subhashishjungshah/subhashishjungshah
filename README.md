@@ -15,7 +15,7 @@
 
 ---
 
-### :man_technologist: About Me :
+About Me :
 
   - 👋 Hi, I’m Subhashish Jung Shah.
   - 👀 I’m interested in everything.
